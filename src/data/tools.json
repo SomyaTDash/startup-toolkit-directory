@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Notion",
+    "category": "Productivity",
+    "logo": "https://logo.clearbit.com/notion.so",
+    "description": "All-in-one workspace for notes, docs, tasks, and wikis.",
+    "rating": 4.8
+  },
+  {
+    "name": "Figma",
+    "category": "Design",
+    "logo": "https://logo.clearbit.com/figma.com",
+    "description": "Collaborative interface design tool.",
+    "rating": 4.7
+  }
+]
